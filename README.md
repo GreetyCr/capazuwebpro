@@ -154,7 +154,7 @@
         });
         // activar el actual
         document.getElementById("tablink-" + name).classList.add("active");
-        document.getElementById("tab-" + name).classList.add("active");
+        document.getElementById("tab-" + name).classList.add("active"); 
       });
     });
   </script>
