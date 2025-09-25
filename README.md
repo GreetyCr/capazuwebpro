@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -158,7 +158,7 @@
           <p>Contabilidad general, costos, auditoría y elaboración de informes financieros.</p>
         </div>
         <div class="card">
-          <h3>📋 Gestión Administrativa</h3>
+          <h3>📋 Gestión de Calidad</h3>
           <p>Administración empresarial, recursos humanos y gestión organizacional.</p>
         </div>
         <div class="card">
@@ -199,8 +199,9 @@
       <h2>Contacto</h2>
       <p>
         Dirección: Avenida 27, Santiago de San Rafael, Heredia, Costa Rica <br>
-        Teléfono: (pendiente de confirmar) <br>
-        Email: (pendiente de confirmar)
+        Teléfono: (2237 2710 / 2238 1982) <br>
+        Email: (lic.ingcarlospascua@mep.go.cr)
+        Facebook: (Comunicados: Capazu)
       </p>
     </section>
   </div>
